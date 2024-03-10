@@ -1,4 +1,4 @@
-# crud
+# Vue CRUD APP
 
 ## Project setup
 ```
